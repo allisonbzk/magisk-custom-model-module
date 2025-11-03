@@ -1,0 +1,66 @@
+# Device Database - Codename to Local Offline DB Name Mapping
+# Format: codename=Local Offline DB Name
+# Add more devices as needed
+
+# Qualcomm Snapdragon 8 Gen 1 devices
+taro=Xiaomi 12 Pro
+zeus=Xiaomi 12
+cupid=Xiaomi 12X
+thor=Realme GT2 Pro
+audi=OnePlus 10 Pro
+felix=Motorola Edge 30 Ultra
+
+# Samsung devices
+dm1q=Samsung Galaxy S22
+dm2q=Samsung Galaxy S22+
+dm3q=Samsung Galaxy S22 Ultra
+b0q=Samsung Galaxy S23
+b0q_eu=Samsung Galaxy S23
+r0q=Samsung Galaxy S23+
+s5e8825=Samsung Galaxy Tab S8
+
+# Google Pixel
+cheetah=Google Pixel 7 Pro
+panther=Google Pixel 7
+lynx=Google Pixel 7a
+bluejay=Google Pixel 6a
+oriole=Google Pixel 6
+raven=Google Pixel 6 Pro
+
+# Xiaomi/Redmi/POCO
+alioth=POCO F3
+aliothin=Redmi K40
+apollo=Mi 10T
+cetus=Xiaomi 11T
+lisa=Xiaomi 11 Lite 5G NE
+munch=POCO F4
+pissarro=Redmi Note 10 Pro
+sweet=Redmi Note 10 Pro
+veux=Redmi Note 11 Pro 5G
+
+# OnePlus
+lemonade=OnePlus 9
+lemonades=OnePlus 9R
+kebab=OnePlus 8T
+hotdog=OnePlus 7T Pro
+guacamole=OnePlus 7 Pro
+enchilada=OnePlus 6
+fajita=OnePlus 6T
+
+# Realme
+RMX3031=Realme GT Master
+RMX3370=Realme GT Neo 3
+RMX3360=Realme 9 Pro+
+RMX2202=Realme 9 Pro
+
+# ASUS
+ASUS_I005D=ASUS ROG Phone 5
+ASUS_I006D=ASUS ROG Phone 6
+
+# Sony
+XQ-BC72=Sony Xperia 1 III
+XQ-CT54=Sony Xperia 5 III
+
+# Lenovo/Motorola
+## (removed entry for testing online lookup)
+moto_achilles=Motorola Edge 40 Pro

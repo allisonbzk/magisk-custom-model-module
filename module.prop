@@ -1,0 +1,7 @@
+id=custom-model
+name=Custom Model Override
+version=2.0
+versionCode=3
+author=xbzk
+description=Interactive model override with auto-detection, volume key prompts, and device database. One reboot setup!
+actionButton=true
